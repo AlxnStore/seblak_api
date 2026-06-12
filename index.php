@@ -1,5 +1,5 @@
 <?php
-$base = 'https://YOUR-PROJECT.vercel.app';
+$base = 'https://seblak-api-5t88.vercel.app';
 ?>
 <!DOCTYPE html>
 <html lang="id">
